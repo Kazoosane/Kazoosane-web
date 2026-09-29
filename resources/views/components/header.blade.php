@@ -1,6 +1,6 @@
 <header>
     <div id="header-title">
-        <a href="/">Kazoosane App</a>
+        <a href="/">Kazoosane Web</a>
     </div>
     <nav>
         <ul>
