@@ -11,7 +11,7 @@
 
     @vite('resources/js/app.js')
 
-    <title>InComing Page | Kazoosane</title>
+    <title>Beranda | KazoosaneWeb</title>
     <style>
     * {
         margin: 0;
